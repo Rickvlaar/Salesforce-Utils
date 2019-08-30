@@ -1,11 +1,11 @@
 /*******************************************************************************************
- * Name            : GGIbanValidatorTest
+ * Name            : IbanValidatorTest
  * Created By      : RickForce
  * Created Date    : 28/08/2019
- * Description     : Test class for GGIbanValidator
+ * Description     : Test class for IbanValidator
  ********************************************************************************************/
 @isTest
-public class GGIbanValidatorTest {
+public class IbanValidatorTest {
 
 	@isTest
 	public static void correctIbanTest() {
